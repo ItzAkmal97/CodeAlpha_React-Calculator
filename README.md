@@ -1,4 +1,4 @@
-# CodeAlpha React Calculator
+# React Calculator
 
 A calculator application built using React.js and TailwindCSS.
 
